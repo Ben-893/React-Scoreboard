@@ -1,5 +1,5 @@
 # React-Scoreboard
-My first single page web app using React. The webpage displays a static list of planets with their associated images, desriptions, diameters and moons. 
+A single-page React App that displays a scoreboard with a list of Players and their respective scores
 
 ### To Install
 ```
