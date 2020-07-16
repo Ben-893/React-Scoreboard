@@ -3,7 +3,7 @@ A single-page React App that displays a Scoreboard with a list of Players and th
 
 ### To Install
 ```
-git clone https://github.com/Ben-893/React-Scoreboard && cd
+git clone https://github.com/Ben-893/React-Scoreboard && cd React-Scoreboard
 npm install
 ```
 
