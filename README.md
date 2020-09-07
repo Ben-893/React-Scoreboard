@@ -1,5 +1,5 @@
 # React-Scoreboard
-A single-page React App that displays a Scoreboard with a list of Players and their respective scores
+A single-page React App that displays a Scoreboard with a list of Players and their respective scores ⚽
 
 ### To Install
 ```
