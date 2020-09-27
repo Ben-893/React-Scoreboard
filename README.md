@@ -1,6 +1,8 @@
 # React-Scoreboard
 A single-page React App that displays a Scoreboard with a list of Players and their respective scores ⚽
 
+![demo](./demo/Scoreboard.gif)
+
 ### To Install
 ```
 git clone https://github.com/Ben-893/React-Scoreboard && cd React-Scoreboard
